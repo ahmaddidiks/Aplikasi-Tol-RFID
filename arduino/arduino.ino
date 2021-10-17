@@ -14,7 +14,6 @@ union {
 
 #define hijau 3
 #define merah 4
-#define putih 5
 uint8_t data_remove[5] = {0x04, 0xFF, 0x0F, 0x65, 0x5D};
 int ID = 0;
 int NEWID = 0;
@@ -26,15 +25,12 @@ void setup() {
   pinMode(hijau, OUTPUT);
   pinMode(merah, OUTPUT);
   Serial1.begin(57600);
-  pinMode(2, INPUT_PULLUP);
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-  if (!digitalRead(2)) {
-    sendData();
-  }
-
+  sendData();
+  
   while (Serial1.available()) {
     dataID = Serial1.read();
     switch (dataID) {
