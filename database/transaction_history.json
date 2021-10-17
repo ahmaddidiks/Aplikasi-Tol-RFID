@@ -1,0 +1,76 @@
+{
+  "kendaraan": [
+    {
+      "ID": "1",
+      "Nomor Kendaraan": "1234",
+      "Golongan": "1",
+      "Tarif": "5000",
+      "Saldo Awal": "25000",
+      "Saldo Akhir": "20000",
+      "Waktu": "Hari ini"
+    },
+    {
+      "ID": "4",
+      "Nomor Kendaraan": "B 1213 CC",
+      "Golongan": "5",
+      "Tarif": "4000",
+      "Saldo Awal": "9996000",
+      "Saldo Akhir": "9992000",
+      "Waktu": "2021-October-17:::06:38:34"
+    },
+    {
+      "ID": "1",
+      "Nomor Kendaraan": "1234",
+      "Golongan": "1",
+      "Tarif": "500",
+      "Saldo Awal": "4000",
+      "Saldo Akhir": "3500",
+      "Waktu": "2021-October-17:::06:38:45"
+    },
+    {
+      "ID": "6",
+      "Nomor Kendaraan": "1234",
+      "Golongan": "4",
+      "Tarif": "4000",
+      "Saldo Awal": "1000000",
+      "Saldo Akhir": "996000",
+      "Waktu": "2021-October-17:::06:39:08"
+    },
+    {
+      "ID": "4",
+      "Nomor Kendaraan": "B 1213 CC",
+      "Golongan": "5",
+      "Tarif": "4000",
+      "Saldo Awal": "9992000",
+      "Saldo Akhir": "9988000",
+      "Waktu": "2021-October-17:::06:46:16"
+    },
+    {
+      "ID": "1",
+      "Nomor Kendaraan": "1234",
+      "Golongan": "1",
+      "Tarif": "500",
+      "Saldo Awal": "3500",
+      "Saldo Akhir": "3000",
+      "Waktu": "2021-October-17:::07:35:15"
+    },
+    {
+      "ID": "3",
+      "Nomor Kendaraan": "1",
+      "Golongan": "3",
+      "Tarif": "100",
+      "Saldo Awal": "3000",
+      "Saldo Akhir": "2900",
+      "Waktu": "2021-October-17:::07:35:36"
+    },
+    {
+      "ID": "6",
+      "Nomor Kendaraan": "1234",
+      "Golongan": "4",
+      "Tarif": "4000",
+      "Saldo Awal": "996000",
+      "Saldo Akhir": "992000",
+      "Waktu": "2021-October-17:::07:35:51"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "kendaraan": [
+    {
+      "ID": "1",
+      "Nomor Kendaraan": "1234",
+      "Golongan": "1",
+      "Tarif": "500",
+      "Saldo": "3000"
+    },
+    {
+      "ID": "2",
+      "Nomor Kendaraan": "3456",
+      "Golongan": "2",
+      "Tarif": "6000",
+      "Saldo": "2000"
+    },
+    {
+      "ID": "4",
+      "Nomor Kendaraan": "B 1213 CC",
+      "Golongan": "5",
+      "Tarif": "4000",
+      "Saldo": "9988000"
+    },
+    {
+      "ID": "5",
+      "Nomor Kendaraan": "2452345",
+      "Golongan": "5",
+      "Tarif": "4000",
+      "Saldo": "50000"
+    },
+    {
+      "ID": "3",
+      "Nomor Kendaraan": "1",
+      "Golongan": "3",
+      "Tarif": "100",
+      "Saldo": "2900"
+    },
+    {
+      "ID": "6",
+      "Nomor Kendaraan": "1234",
+      "Golongan": "4",
+      "Tarif": "4000",
+      "Saldo": "992000"
+    }
+  ]
+}

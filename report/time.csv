@@ -1,0 +1,4 @@
+kendaraan
+"{'ID': '1', 'Nomor Kendaraan': '1234', 'Golongan': '1', 'Tarif': '5000', 'saldo': '10000'}"
+"{'ID': '2', 'Nomor Kendaraan': '3456', 'Golongan': '2', 'Tarif': '6000', 'saldo': '20000'}"
+"{'ID': '4', 'Nomor Kendaraan': 'B 1213 CC', 'Golongan': '5', 'saldo': '10000000'}"
